@@ -18,3 +18,8 @@ fruits[5] = 'charry'
 
 console.log(firstFruit)
 console.log(fruits);
+
+
+// I learned document.write function now
+
+document.write("Hello World");
